@@ -31,7 +31,7 @@
   <a href="https://twitter.com/bhanuteja013" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhanuteja013" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/bhanuteja12" target="blank">
+  <a href="https://linkedin.com/in/bhanuteja12" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bhanuteja12" height="30" width="40" />
   </a>
   <a href="https://instagram.com/ig_teja013" target="blank">
