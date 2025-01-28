@@ -86,3 +86,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuteja-tech&" alt="bhanuteja-tech" />
 </p>
+<p>
+  <img align="bottom" src=https://github.com/bhanuteja-tech/bhanuteja-tech/blob/d1b1b4b6998c225c2fd0469f064a0e07c6cbe81f/github-snake-dark.svg
+&" alt="bhanuteja-tech" />
+</p>
