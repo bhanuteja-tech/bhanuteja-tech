@@ -1,6 +1,3 @@
-<!-- Add a header GIF -->
-![MasterHead](Data.PNG)
-
 <!-- ===================== HERO ===================== -->
 
 <div align="center">
