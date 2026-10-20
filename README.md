@@ -227,7 +227,7 @@ An interactive analysis of historical Olympic Games data from 1896 to 2016.
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhanuteja-tech&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+<img width="95%" src="https://ghchart.rshah.org/00e5ff/bhanuteja-tech" alt="GitHub contribution activity graph"/>
 
 </div>
 
