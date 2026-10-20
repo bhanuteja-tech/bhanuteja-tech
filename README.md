@@ -109,8 +109,7 @@ An evolving desktop assistant designed to turn natural-language instructions int
 
 **Focus:** Agentic AI · Python · Automation
 
-<!-- Replace REPO_NAME with the actual repository name -->
-<a href="https://github.com/bhanuteja-tech">View repositories →</a>
+<a href="https://github.com/bhanuteja-tech/jarvis-project">View Jarvis repository →</a>
 
 </td>
 <td width="50%" valign="top">
@@ -127,7 +126,7 @@ An application for exploring datasets and asking questions about data in natural
 
 **Focus:** Pandas · FastAPI · Streamlit · LLMs
 
-<a href="https://github.com/bhanuteja-tech">View repositories →</a>
+<a href="https://github.com/bhanuteja-tech/AI-powered-Data-Analyst">View AI Data Analyst repository →</a>
 
 </td>
 </tr>
@@ -145,7 +144,7 @@ A computer vision application for face-based student attendance management.
 
 **Focus:** OpenCV · Python · MySQL
 
-<a href="https://github.com/bhanuteja-tech">View repositories →</a>
+<a href="https://github.com/bhanuteja-tech/Advanced-Face-Recognition-Attendance-System">View attendance project →</a>
 
 </td>
 <td width="50%" valign="top">
@@ -161,7 +160,7 @@ An interactive analysis of historical Olympic Games data from 1896 to 2016.
 
 **Focus:** Pandas · Plotly · Streamlit
 
-<a href="https://github.com/bhanuteja-tech">View repositories →</a>
+<a href="https://github.com/bhanuteja-tech/olympics_data_analysis">View Olympics project →</a>
 
 </td>
 </tr>
@@ -228,7 +227,7 @@ An interactive analysis of historical Olympic Games data from 1896 to 2016.
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhanuteja-tech&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhanuteja-tech&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -238,7 +237,7 @@ An interactive analysis of historical Olympic Games data from 1896 to 2016.
 
 <div align="center">
 
-<!-- Requires the GitHub Actions workflow described below -->
+<!-- Generated automatically by .github/workflows/snake.yml -->
 <img src="https://raw.githubusercontent.com/bhanuteja-tech/bhanuteja-tech/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 </div>
